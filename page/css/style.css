@@ -846,6 +846,11 @@ h1, h2, h3, h4, h5, h6, figure {
   content: "\e9af";
 }
 
+.gtco-contact-info ul li.fb:before {
+  font-size: 23px;
+  content: "\ea67";
+}
+
 form label {
   font-weight: normal !important;
 }
