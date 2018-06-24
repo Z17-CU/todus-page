@@ -1395,6 +1395,12 @@ form label {
   padding-bottom: 2em !important;
 }
 
+@media screen and (max-width: 1024px) {
+  #gtco-term {
+    padding: 2em;
+    padding-top: 5em;
+  }
+}
 
 .gtco-loader {
   position: fixed;
