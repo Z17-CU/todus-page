@@ -582,6 +582,21 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-top: 7em;
 }
 
+#gtco-term b{
+  color: #b72025;
+}
+
+#gtco-term h3{
+  color: #b72025;
+}
+
+#gtco-term h2{
+  color: #b72025;
+}
+
+#gtco-term i{
+  color: #b72025;
+}
 
 #gtco-about .img-shadow {
   position: relative;
