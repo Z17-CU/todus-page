@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51f60d16-41a3-4b89-8fe8-38606ef91f49" name="Default" comment="version minima de android">
+    <list default="true" id="51f60d16-41a3-4b89-8fe8-38606ef91f49" name="Default" comment="permisos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/faq.html" afterDir="false" />
     </list>
@@ -12,6 +12,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="todus-page" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -27,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-416">
-              <caret line="52" column="60" lean-forward="true" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
+            <state relative-caret-position="168">
+              <caret line="201" column="100" selection-start-line="201" selection-start-column="100" selection-end-line="201" selection-end-column="100" />
             </state>
           </provider>
         </entry>
@@ -63,8 +66,8 @@
       <file leaf-file-name="faq.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/page/faq.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="182" column="170" selection-start-line="182" selection-start-column="170" selection-end-line="182" selection-end-column="170" />
+            <state relative-caret-position="111">
+              <caret line="190" column="176" selection-start-line="190" selection-start-column="176" selection-end-line="190" selection-end-column="176" />
             </state>
           </provider>
         </entry>
@@ -99,6 +102,8 @@
       <find>#gtco-term</find>
       <find>puedes es</find>
       <find>toduscu</find>
+      <find>free</find>
+      <find>alt</find>
     </findStrings>
     <replaceStrings>
       <replace>toDus</replace>
@@ -120,9 +125,9 @@
         <option value="$PROJECT_DIR$/page/terms.html" />
         <option value="$PROJECT_DIR$/page/css/icomoon.css" />
         <option value="$PROJECT_DIR$/page/js/main.js" />
-        <option value="$PROJECT_DIR$/page/index.html" />
         <option value="$PROJECT_DIR$/page/css/style.css" />
         <option value="$PROJECT_DIR$/page/sass/style.scss" />
+        <option value="$PROJECT_DIR$/page/index.html" />
         <option value="$PROJECT_DIR$/page/faq.html" />
       </list>
     </option>
@@ -211,7 +216,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529585975021</updated>
-      <workItem from="1529585980007" duration="41643000" />
+      <workItem from="1529585980007" duration="46081000" />
     </task>
     <task id="LOCAL-00001" summary="version minima de android">
       <created>1529872784446</created>
@@ -283,29 +288,65 @@
       <option name="project" value="LOCAL" />
       <updated>1529963690092</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="version minima de android">
+      <created>1529977119032</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1529977119032</updated>
+    </task>
+    <task id="LOCAL-00012" summary="UPDATE">
+      <created>1529977134798</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1529977134798</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Update faq grupos">
+      <created>1529982064406</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1529982064407</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update index">
+      <created>1529983774226</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1529983774226</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update phone">
+      <created>1530019268267</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1530019268267</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41643000" />
+    <option name="totallyTimeSpent" value="46081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32900432" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" weight="0.32900432" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18496802" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983871" weight="0.18496802" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.5016129" side_tool="true" weight="0.18496802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -350,12 +391,16 @@
     <MESSAGE value="Update indice FAQ" />
     <MESSAGE value="ortografía" />
     <MESSAGE value="contactos" />
-    <MESSAGE value="permisos" />
     <MESSAGE value="Update FAQ" />
-    <MESSAGE value="version minima de android" />
     <MESSAGE value="Update" />
     <MESSAGE value="enlace a fb" />
-    <option name="LAST_COMMIT_MESSAGE" value="enlace a fb" />
+    <MESSAGE value="version minima de android" />
+    <MESSAGE value="UPDATE" />
+    <MESSAGE value="Update faq grupos" />
+    <MESSAGE value="update index" />
+    <MESSAGE value="update phone" />
+    <MESSAGE value="permisos" />
+    <option name="LAST_COMMIT_MESSAGE" value="permisos" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/page/css/icomoon.css">
@@ -372,13 +417,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="794">
           <caret line="127" lean-forward="true" selection-end-line="127" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-416">
-          <caret line="52" column="60" lean-forward="true" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -403,10 +441,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/page/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="201" column="100" selection-start-line="201" selection-start-column="100" selection-end-line="201" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/page/faq.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="182" column="170" selection-start-line="182" selection-start-column="170" selection-end-line="182" selection-end-column="170" />
+        <state relative-caret-position="111">
+          <caret line="190" column="176" selection-start-line="190" selection-start-column="176" selection-end-line="190" selection-end-column="176" />
         </state>
       </provider>
     </entry>
