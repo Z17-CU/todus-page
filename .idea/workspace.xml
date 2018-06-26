@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51f60d16-41a3-4b89-8fe8-38606ef91f49" name="Default" comment="" />
+    <list default="true" id="51f60d16-41a3-4b89-8fe8-38606ef91f49" name="Default" comment="version minima de android">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/faq.html" afterDir="false" />
+    </list>
+    <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="74" column="122" selection-start-line="74" selection-start-column="122" selection-end-line="74" selection-end-column="122" />
+            <state relative-caret-position="-416">
+              <caret line="52" column="60" lean-forward="true" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -38,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="1400" column="18" selection-start-line="1400" selection-start-column="18" selection-end-line="1400" selection-end-column="18" />
+            <state relative-caret-position="425">
+              <caret line="315" column="10" selection-start-line="315" selection-start-column="10" selection-end-line="315" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -50,17 +54,17 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page/sass/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="944">
-              <caret line="660" selection-start-line="660" selection-end-line="661" />
+            <state relative-caret-position="95">
+              <caret line="172" column="19" selection-start-line="172" selection-start-column="14" selection-end-line="172" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="faq.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="faq.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/page/faq.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="62" column="116" selection-start-line="62" selection-start-column="114" selection-end-line="62" selection-end-column="116" />
+            <state relative-caret-position="298">
+              <caret line="182" column="170" selection-start-line="182" selection-start-column="170" selection-end-line="182" selection-end-column="170" />
             </state>
           </provider>
         </entry>
@@ -89,16 +93,24 @@
       <find>Telegram</find>
       <find>toDus</find>
       <find>&lt;b&gt;toDus&lt;/b&gt;</find>
-      <find>main-</find>
       <find>face</find>
       <find>50</find>
+      <find>main-</find>
       <find>#gtco-term</find>
+      <find>puedes es</find>
+      <find>toduscu</find>
     </findStrings>
     <replaceStrings>
       <replace>toDus</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Haniel Cáceres Navarro &lt;hcaceres@uci.cu&gt;" />
+      </list>
+    </option>
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -109,8 +121,9 @@
         <option value="$PROJECT_DIR$/page/css/icomoon.css" />
         <option value="$PROJECT_DIR$/page/js/main.js" />
         <option value="$PROJECT_DIR$/page/index.html" />
-        <option value="$PROJECT_DIR$/page/faq.html" />
         <option value="$PROJECT_DIR$/page/css/style.css" />
+        <option value="$PROJECT_DIR$/page/sass/style.scss" />
+        <option value="$PROJECT_DIR$/page/faq.html" />
       </list>
     </option>
   </component>
@@ -198,12 +211,83 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529585975021</updated>
-      <workItem from="1529585980007" duration="20680000" />
+      <workItem from="1529585980007" duration="41643000" />
     </task>
+    <task id="LOCAL-00001" summary="version minima de android">
+      <created>1529872784446</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529872784446</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update indice FAQ">
+      <created>1529902013249</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529902013249</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ortografía">
+      <created>1529931367612</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1529931367612</updated>
+    </task>
+    <task id="LOCAL-00004" summary="contactos">
+      <created>1529931489782</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1529931489782</updated>
+    </task>
+    <task id="LOCAL-00005" summary="permisos">
+      <created>1529932589643</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529932589643</updated>
+    </task>
+    <task id="LOCAL-00006" summary="permisos">
+      <created>1529932719387</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1529932719387</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update FAQ">
+      <created>1529934345337</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1529934345337</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update">
+      <created>1529952221168</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1529952221168</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update">
+      <created>1529952333767</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1529952333767</updated>
+    </task>
+    <task id="LOCAL-00010" summary="enlace a fb">
+      <created>1529963690092</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1529963690092</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20680000" />
+    <option name="totallyTimeSpent" value="41643000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -213,12 +297,12 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32900432" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18072917" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18496802" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32946146" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
@@ -233,14 +317,68 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update indice FAQ" />
+    <MESSAGE value="ortografía" />
+    <MESSAGE value="contactos" />
+    <MESSAGE value="permisos" />
+    <MESSAGE value="Update FAQ" />
+    <MESSAGE value="version minima de android" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="enlace a fb" />
+    <option name="LAST_COMMIT_MESSAGE" value="enlace a fb" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/page/css/icomoon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="1494" column="18" selection-start-line="1494" selection-start-column="2" selection-end-line="1494" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/page/terms.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="794">
           <caret line="127" lean-forward="true" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-416">
+          <caret line="52" column="60" lean-forward="true" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -251,38 +389,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/css/icomoon.css">
+    <entry file="file://$PROJECT_DIR$/page/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="1494" column="18" selection-start-line="1494" selection-start-column="2" selection-end-line="1494" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/faq.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="62" column="116" selection-start-line="62" selection-start-column="114" selection-end-line="62" selection-end-column="116" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="74" column="122" selection-start-line="74" selection-start-column="122" selection-end-line="74" selection-end-column="122" />
+        <state relative-caret-position="425">
+          <caret line="315" column="10" selection-start-line="315" selection-start-column="10" selection-end-line="315" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/page/sass/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="944">
-          <caret line="660" selection-start-line="660" selection-end-line="661" />
+        <state relative-caret-position="95">
+          <caret line="172" column="19" selection-start-line="172" selection-start-column="14" selection-end-line="172" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/css/style.css">
+    <entry file="file://$PROJECT_DIR$/page/faq.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="1400" column="18" selection-start-line="1400" selection-start-column="18" selection-end-line="1400" selection-end-column="18" />
+        <state relative-caret-position="298">
+          <caret line="182" column="170" selection-start-line="182" selection-start-column="170" selection-end-line="182" selection-end-column="170" />
         </state>
       </provider>
     </entry>
