@@ -582,6 +582,21 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-top: 7em;
 }
 
+#gtco-term b{
+  color: #b72025;
+}
+
+#gtco-term h3{
+  color: #b72025;
+}
+
+#gtco-term h2{
+  color: #b72025;
+}
+
+#gtco-term i{
+  color: #b72025;
+}
 
 #gtco-about .img-shadow {
   position: relative;
@@ -844,6 +859,11 @@ h1, h2, h3, h4, h5, h6, figure {
 .gtco-contact-info ul li.url:before {
   font-size: 23px;
   content: "\e9af";
+}
+
+.gtco-contact-info ul li.fb:before {
+  font-size: 23px;
+  content: "\ea67";
 }
 
 form label {
@@ -1375,6 +1395,12 @@ form label {
   padding-bottom: 2em !important;
 }
 
+@media screen and (max-width: 1024px) {
+  #gtco-term {
+    padding: 2em;
+    padding-top: 5em;
+  }
+}
 
 .gtco-loader {
   position: fixed;
