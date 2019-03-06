@@ -10,6 +10,17 @@
 	<meta name="keywords" content="cliente, mensajería, cuba, mensajes, gratis, Cuba, message, im, instant message, toDus, todus, ToDus" />
 	<meta name="author" content="toDus" />
 
+	<link rel="manifest" href="manifest.json">
+
+	<link id="first_style" rel="stylesheet" href="#" disabled />
+
+        <script type="text/javascript">
+            window.onload = function()
+            {
+                document.getElementById('first_style').removeAttribute('disabled');
+            }
+        </script>
+	
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
 	<!-- Icomoon Icon Fonts-->
@@ -29,7 +40,7 @@
 	<link rel="shortcut icon" href="images/logo.png">
 
 	<!-- Modernizr JS -->
-	<script src="js/modernizr-2.6.2.min.js"></script>
+	<script defer async src="js/modernizr-2.6.2.min.js"></script>
 	<!-- FOR IE9 below -->
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
