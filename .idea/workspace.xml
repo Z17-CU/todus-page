@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51f60d16-41a3-4b89-8fe8-38606ef91f49" name="Default" comment="link index arreglado">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/images/404.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/images/error.png" afterDir="false" />
+    <list default="true" id="51f60d16-41a3-4b89-8fe8-38606ef91f49" name="Default" comment="[ADD] error pages">
+      <change afterPath="$PROJECT_DIR$/nginx/default.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/page/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/terms.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +46,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/page" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -110,7 +112,8 @@
       <workItem from="1529585980007" duration="47945000" />
       <workItem from="1530542015717" duration="1564000" />
       <workItem from="1531276544095" duration="4198000" />
-      <workItem from="1606757194589" duration="1269000" />
+      <workItem from="1606757194589" duration="1825000" />
+      <workItem from="1606760624549" duration="3391000" />
     </task>
     <task id="LOCAL-00001" summary="version minima de android">
       <created>1529872784446</created>
@@ -259,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531333593929</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="[ADD] error pages">
+      <created>1606758692092</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1606758692092</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,13 +309,22 @@
     <MESSAGE value="Agregado UCI" />
     <MESSAGE value="LogoUci" />
     <MESSAGE value="link index arreglado" />
-    <option name="LAST_COMMIT_MESSAGE" value="link index arreglado" />
+    <MESSAGE value="[ADD] error pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] error pages" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2360" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606758462860">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2360" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.0.1920.1080/44.27.1876.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606758462860" />
+    <state x="2500" y="125" width="794" height="863" key="CommitChangelistDialog2" timestamp="1606758691986">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2500" y="125" width="794" height="863" key="CommitChangelistDialog2/3840.0.1920.1080/44.27.1876.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606758691986" />
+    <state x="2497" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1606758721162">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2497" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/3840.0.1920.1080/44.27.1876.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606758721162" />
     <state x="2799" y="465" width="617" height="355" key="com.intellij.docker.deployment.ui.DockerPortBindingsField.v173.dialogSize" timestamp="1606758168706">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
